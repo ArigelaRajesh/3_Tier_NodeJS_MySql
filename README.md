@@ -1,18 +1,7 @@
 
-# DevOps Shack User Management App
+# 3 Tier  NodeJS MYSQL Project
 
 This is a full-stack application for managing users with a front-end built using HTML, CSS, and JavaScript, and a back-end powered by Node.js, Express, and MySQL.
-
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Setup Instructions](#setup-instructions)
-  - [1. Setting Up MySQL Server](#1-setting-up-mysql-server)
-  - [2. Configuring and Running the Client](#2-configuring-and-running-the-client)
-  - [3. Configuring and Running the Server](#3-configuring-and-running-the-server)
-- [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -161,9 +150,19 @@ After following the setup instructions, you can access the application by naviga
 - **Edit User:** Click the "Edit" button next to a user entry to update their details.
 - **Delete User:** Click the "Delete" button next to a user entry to remove them from the list.
 
+### Dashboard View
+![Screenshot (74)](https://github.com/user-attachments/assets/799c0d51-f13a-4bae-9475-b72b5fbeeb64)
+
+### EC2 Instance
+![Screenshot (75)](https://github.com/user-attachments/assets/f826ca1c-3fd0-4474-ae95-0b91b726d379)
+
+### Database changes:
+#### Before:
+![Screenshot (76)](https://github.com/user-attachments/assets/a85c60ab-8169-424c-a008-711ae4ad3b3f)
+
+#### After:
+![Screenshot (77)](https://github.com/user-attachments/assets/ada73c72-cced-4f95-b39a-4722c29dcda0)
+
+
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### NOTE: This Application Should not be used for commercial purpose by anyone else other than DevOps Shack
-
+[MIT License](LICENSE)
